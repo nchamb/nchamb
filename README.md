@@ -11,7 +11,7 @@ I'm a **Software Engineer** currently training to become an **AI Engineer**.
 Feel free to explore my repositories and follow along as I learn and grow in the AI space!
 
 
-Visit my Blogs Page: <a href="https://nipunbandara.vercel.app/blogs" target="_blank">🔗 nipunbandara.vercel.app/blogs</a>
+Visit my Blogs Page: <a href="https://chamb.vercel.app/blogs" target="_blank">🔗 chamb.vercel.app/blogs</a>
 
 <!--
 **nipunbandara/nipunbandara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
