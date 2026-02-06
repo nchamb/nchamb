@@ -2,9 +2,9 @@
 
 # Thanks for visiting my GitHub page! 
 
-I'm a **Software Engineer** currently training to become an **AI Engineer**.
+I’m a **Software Engineer** who enjoys exploring **data** and transforming it into impact.
 
-🚀 I'm focusing on building applications that integrate **AI model APIs** into real-world solutions.
+🚀 I build practical, real-world applications by developing models and leveraging cutting-edge AI model APIs.
 
 ---
 
